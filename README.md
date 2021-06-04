@@ -36,7 +36,8 @@
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ionic_icon_130522.png" alt="ionic" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_docker_icon_130643.png" alt="ionic" width="40" height="40" style="max-width:100%;"></img>
 
-![Diego's github stats](https://github-readme-stats.vercel.app/api?username=diegoshakan&show_icons=true&count_private=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabok2&layout=compact)](https://github.com/gabok2/github-readme-stats)
+
 
 
 <!--
